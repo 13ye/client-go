@@ -29,7 +29,7 @@ type Session struct {
 var Default_Ctx = context.Background()
 var Default_UserName = "root"
 var Default_Passwd = "root"
-var Default_Host = "192.168.5.171"
+var Default_Host = "192.168.0.1"
 var Default_Port = "6667"
 var Default_ZoneId = "UTC+8"
 var Default_SuccessCode int64 = 200
